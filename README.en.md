@@ -41,6 +41,14 @@ A Java backend, customer/staff WeChat mini-program and PC dashboard covering res
 
 A runnable portfolio demo; payments and devices are simulated. Mini-program real-device testing and production integrations remain pending.
 
+### [CargoFlow · Logistics Microservices](https://github.com/wang2000222/CargoFlow)
+
+Five independent Java services and a PC console for shipments, vehicle capacity, tracking, signature confirmation and simulated settlement. Uses Spring Cloud Gateway, OpenFeign, Resilience4j, transactional outbox and compensation, with optional Nacos, RabbitMQ and Redis adapters.
+
+**Validation:** 16 business tests, the five-service workflow and dispatch outage recovery passed. Real payments, GPS, production databases and middleware integration remain unverified.
+
+[Project and actual screenshot](https://github.com/wang2000222/CargoFlow/blob/main/README.en.md)
+
 ## Working Together
 
 We start with the business goal and core workflows, then agree on scope, deliverables and acceptance criteria. Frontend development may use AI assistance; I handle backend integration and delivery checks.

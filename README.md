@@ -41,6 +41,14 @@ Java 后端、用户 / 管理员微信小程序和 PC 工作台，覆盖预约�
 
 当前为可运行演示：设备与支付采用模拟，小程序真机验收及正式商用接入尚未完成。
 
+### [CargoFlow · 物流协同微服务平台](https://github.com/wang2000222/CargoFlow)
+
+五个独立 Java 服务与 PC 工作台，串联运单、车辆载重调度、轨迹、签收和模拟结算。采用 Spring Cloud Gateway、OpenFeign、Resilience4j、事务 Outbox 与补偿处理，并提供 Nacos、RabbitMQ、Redis 可选适配。
+
+**验证：** 16 项业务测试通过，五服务完整流程与调度故障恢复通过。真实支付、GPS、生产数据库与中间件集成验收尚未完成。
+
+[查看项目与实际截图](https://github.com/wang2000222/CargoFlow#readme) · [English](https://github.com/wang2000222/CargoFlow/blob/main/README.en.md)
+
 ## 合作方式
 
 先明确业务目标和核心流程，再确认功能范围、交付内容与验收标准。前端可使用 AI 辅助开发，由我负责与后端的联调和交付检查。
