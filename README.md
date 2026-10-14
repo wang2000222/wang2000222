@@ -33,6 +33,14 @@
 
 这是个人作品展示。仓库提供源码与运行说明中。
 
+### [RoomFlow · 自助棋牌室多门店管理](https://github.com/wang2000222/RoomFlow)
+
+Java 后端、用户 / 管理员微信小程序和 PC 工作台，覆盖预约冲突校验、演示支付、模拟开门、结束使用和保洁。支持用户订单隔离与门店管理员权限。
+
+[查看项目与实际截图](https://github.com/wang2000222/RoomFlow#readme) · [English](https://github.com/wang2000222/RoomFlow/blob/main/README.en.md)
+
+当前为可运行演示：设备与支付采用模拟，小程序真机验收及正式商用接入尚未完成。
+
 ## 合作方式
 
 先明确业务目标和核心流程，再确认功能范围、交付内容与验收标准。前端可使用 AI 辅助开发，由我负责与后端的联调和交付检查。

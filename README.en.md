@@ -33,6 +33,14 @@ A structured, visual workspace for characters, events, locations and relationshi
 
 This is a personal portfolio project. Source code and setup instructions are available; a hosted demo, application screenshots and a video are being prepared.
 
+### [RoomFlow · Multi-Store Self-Service Mahjong Management](https://github.com/wang2000222/RoomFlow)
+
+A Java backend, customer/staff WeChat mini-program and PC dashboard covering reservation conflicts, simulated payments and access control, session completion and cleaning workflows. Includes customer ownership checks and store-scoped staff permissions.
+
+[Project overview and screenshot](https://github.com/wang2000222/RoomFlow/blob/main/README.en.md)
+
+A runnable portfolio demo; payments and devices are simulated. Mini-program real-device testing and production integrations remain pending.
+
 ## Working Together
 
 We start with the business goal and core workflows, then agree on scope, deliverables and acceptance criteria. Frontend development may use AI assistance; I handle backend integration and delivery checks.
